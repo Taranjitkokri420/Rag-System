@@ -1,0 +1,24 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environment Variables & Secrets
+.env
+.env.local
+
+# Vector Cache
+cache/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
